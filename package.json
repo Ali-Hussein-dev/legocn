@@ -1,5 +1,5 @@
 {
-  "name": "legocn-2",
+  "name": "legocn",
   "private": true,
   "workspaces": [
     "apps/*",

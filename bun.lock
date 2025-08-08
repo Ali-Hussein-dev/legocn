@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "legocn-2",
+      "name": "legocn",
       "devDependencies": {
         "@biomejs/biome": "2.1.2",
         "husky": "^9.1.7",
